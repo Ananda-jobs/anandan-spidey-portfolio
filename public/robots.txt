@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anandan-portfolio.devs.surf/sitemap.xml
