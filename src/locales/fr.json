@@ -1,0 +1,287 @@
+{
+  "nav": {
+    "powers": "Pouvoirs",
+    "missions": "Missions",
+    "theWeb": "La Toile",
+    "scroll": "DÉFILER",
+    "soundOff": "SON OFF",
+    "soundOn": "SON ON"
+  },
+  "hero": {
+    "title1": "MARKETING DIGITAL",
+    "title2": "&",
+    "title3": "COMMERCE INTERNATIONAL",
+    "lookingFor": "À LA RECHERCHE D'UN",
+    "internship": "STAGE DE 6 MOIS",
+    "internshipDesc": "MARKETING DIGITAL • COMMUNICATION • DÉVELOPPEMENT COMMERCIAL",
+    "available": "DISPONIBLE IMMÉDIATEMENT",
+    "creativeThinker": "PENSEUR CRÉATIF • SPÉCIALISTE EN MARKETING DIGITAL • PROFESSIONNEL DU BUSINESS",
+    "master": "MASTER — MANAGEMENT EUROPÉEN ET INTERNATIONAL DES AFFAIRES",
+    "school": "EM STRASBOURG BUSINESS SCHOOL • FRANCE",
+    "enterWeb": "ENTRER DANS LA TOILE →",
+    "discoverPowers": "DÉCOUVRIR MES POUVOIRS ↓"
+  },
+  "powers": {
+    "number": "01",
+    "title": "POUVOIRS",
+    "subtitle": "MON ARSENAL",
+    "name": "ANANDAN",
+    "tagline": "MARKETING DIGITAL • STRATÉGIE • CONTENU",
+    "downloadResume": "TÉLÉCHARGER LE CV COMPLET",
+    "profExp": "EXPÉRIENCE PROFESSIONNELLE",
+    "modules": {
+      "dm": {
+        "title": "MARKETING DIGITAL",
+        "items": [
+          "Création de Contenu",
+          "Stratégie SEO",
+          "Gestion des Réseaux Sociaux",
+          "Analytique & Reporting",
+          "Optimisation de Campagnes"
+        ]
+      },
+      "ib": {
+        "title": "COMMERCE INTERNATIONAL",
+        "items": [
+          "Étude de Marché",
+          "Communication Interculturelle",
+          "Stratégie Globale",
+          "Développement Commercial",
+          "Commerce International"
+        ]
+      },
+      "tools": {
+        "title": "OUTILS & PLATEFORMES",
+        "items": [
+          "Google Analytics",
+          "Meta Business Suite",
+          "Adobe Creative Cloud",
+          "HubSpot CRM",
+          "Suite Microsoft Office"
+        ]
+      }
+    },
+    "exp": {
+      "job1": {
+        "title": "Stagiaire en Marketing Digital",
+        "company": "Nom de l'Entreprise",
+        "date": "2023 - Présent",
+        "desc1": "Développement et exécution de stratégies complètes pour les réseaux sociaux sur plusieurs plateformes, augmentant l'engagement de 30%.",
+        "desc2": "Gestion de campagnes B2B internationales, en coordination avec des équipes locales sur 3 marchés européens différents.",
+        "desc3": "Augmentation du trafic organique de 45% grâce à des améliorations SEO ciblées et l'optimisation du contenu."
+      },
+      "job2": {
+        "title": "Assistant Marketing",
+        "company": "Une Autre Entreprise",
+        "date": "2022 - 2023",
+        "desc1": "Assistance dans la coordination des lancements de produits, en veillant à ce que tous les actifs numériques soient alignés avec les directives de la marque.",
+        "desc2": "Réalisation d'études de marché pour identifier de nouvelles tendances et opportunités dans le secteur technologique européen.",
+        "desc3": "Création de contenu pour les newsletters hebdomadaires, augmentant le nombre d'abonnés de 15% sur 6 mois."
+      }
+    },
+    "whatIBring": "CE QUE J'APPORTE",
+    "desc": "Je développe des stratégies digitales qui renforcent la visibilité de la marque, créent des communautés et génèrent des résultats mesurables.",
+    "modulesData": [
+      {
+        "num": "01",
+        "title": "MARKETING DIGITAL",
+        "skills": [
+          "Réseaux Sociaux",
+          "Stratégie de Contenu",
+          "Support de Campagne",
+          "Marketing Digital",
+          "Étude de Marché",
+          "Analyse KPI & Reporting",
+          "Fondamentaux SEO",
+          "Contenu Web / CMS"
+        ],
+        "desc": "Développer la visibilité numérique grâce à la stratégie de contenu, la recherche et le marketing axé sur l'audience."
+      },
+      {
+        "num": "02",
+        "title": "CONTENU & CRÉATIF",
+        "skills": [
+          "Création de Contenu",
+          "Contenu Visuel",
+          "Contenu Vidéo",
+          "Design de Présentation",
+          "Design Graphique",
+          "Contenu Réseaux Sociaux"
+        ],
+        "desc": "Créer du contenu visuel et numérique qui communique clairement les idées et fait ressortir les marques."
+      },
+      {
+        "num": "03",
+        "title": "BUSINESS",
+        "skills": [
+          "Développement Commercial",
+          "Commerce International",
+          "Communication Client",
+          "Analyse Concurrentielle",
+          "Opérations de Vente",
+          "Reporting Commercial"
+        ],
+        "desc": "Combiner la créativité marketing avec la réflexion commerciale internationale et l'analyse pratique du marché."
+      },
+      {
+        "num": "04",
+        "title": "IA & DIGITAL",
+        "skills": [
+          "Intelligence Artificielle",
+          "Outils IA",
+          "Analyse de Données",
+          "Expériences Numériques",
+          "Stratégie Produit",
+          "UX & Parcours Utilisateur",
+          "Automatisation de Workflow"
+        ],
+        "desc": "Utiliser l'IA moderne et les outils numériques pour améliorer les processus, créer des expériences numériques et développer des idées."
+      }
+    ],
+    "expStrip": {
+      "years": "03+ ANNÉES",
+      "marketingExp": "EXPÉRIENCE EN\\nMARKETING",
+      "months": "06 MOIS",
+      "internshipTarget": "OBJECTIF\\nDE STAGE",
+      "city": "STRASBOURG",
+      "country": "FRANCE",
+      "available": "DISPONIBLE",
+      "immediately": "IMMÉDIATEMENT"
+    },
+    "identity": {
+      "title": "IDENTITÉ",
+      "subtitle": "FAITES CONNAISSANCE AVEC ANANDAN",
+      "view": "VOIR L'IDENTITÉ",
+      "scan": "SCANNER • EXPLORER • CONNECTER",
+      "close": "[ FERMER ]"
+    }
+  },
+  "missions": {
+    "number": "02",
+    "title": "MISSIONS",
+    "subtitle": "Ce Que J'ai Fait",
+    "filters": {
+      "all": "TOUT",
+      "dm": "MARKETING DIGITAL",
+      "ecommerce": "E-COMMERCE",
+      "strategy": "STRATÉGIE"
+    },
+    "projects": {
+      "viewProject": "VOIR LE PROJET",
+      "p1": {
+        "title": "Lancement de Campagne Globale",
+        "desc": "Direction de la stratégie numérique pour un lancement de nouveau produit sur 5 marchés internationaux. Atteinte de 150% des objectifs de KPI."
+      },
+      "p2": {
+        "title": "Optimisation E-commerce",
+        "desc": "Refonte du parcours utilisateur et mise en place de flux d'emails ciblés, entraînant une augmentation de 35% du taux de conversion."
+      },
+      "p3": {
+        "title": "Refonte de la Stratégie de Contenu",
+        "desc": "Développement d'un calendrier de contenu complet de 6 mois et d'un guide de style pour la cohérence de la marque multi-plateforme."
+      },
+      "p4": {
+        "title": "Analyse d'Expansion de Marché",
+        "desc": "Recherche approfondie sur 3 marchés européens potentiels, fournissant des stratégies d'entrée actionnables au conseil d'administration."
+      }
+    },
+    "desc": "Expérience en marketing digital, développement commercial, étude de marché, reporting KPI, gestion de site web et coordination de projets transverses.",
+    "data": [
+      {
+        "id": "01",
+        "company": "CONSULTAI",
+        "role": "FONDATEUR & DÉVELOPPEUR PRODUIT IA",
+        "date": "2026 — PRÉSENT",
+        "responsibilities": [
+          "Définition des exigences du produit et des parcours utilisateurs pour une plateforme commerciale basée sur l'IA.",
+          "Réalisation d'études de marché et d'analyses concurrentielles.",
+          "Collaboration sur la stratégie produit et la planification du développement."
+        ]
+      },
+      {
+        "id": "02",
+        "company": "AGENCE DE PUB — FRANCE",
+        "role": "COORDINATEUR DE PROJETS & MARKETING DIGITAL",
+        "date": "2025 — 2026",
+        "responsibilities": [
+          "Coordination de projets de marketing digital de la planification à l'exécution.",
+          "Support des campagnes et préparation de tableaux de bord KPI.",
+          "Réalisation d'études de marché et de benchmarking concurrentiel.",
+          "Maintenance du contenu du site web à l'aide d'un CMS.",
+          "Collaboration avec des équipes interfonctionnelles."
+        ]
+      },
+      {
+        "id": "03",
+        "company": "COCONUT FASHION STORE",
+        "role": "FONDATEUR",
+        "date": "2024 — 2025",
+        "responsibilities": [
+          "Développement de stratégies de marketing digital.",
+          "Gestion des fournisseurs.",
+          "Création de contenu pour les réseaux sociaux.",
+          "Suivi des KPI.",
+          "Amélioration de la visibilité du site web en utilisant les fondamentaux SEO."
+        ]
+      },
+      {
+        "id": "04",
+        "company": "HOLIDAY INN GOA",
+        "role": "ASSISTANT MARKETING",
+        "date": "2020 — 2022",
+        "responsibilities": [
+          "Soutien aux campagnes marketing et aux activités promotionnelles.",
+          "Préparation de rapports et de présentations.",
+          "Réalisation d'analyses clients et marchés.",
+          "Coordination avec les départements internes."
+        ]
+      }
+    ]
+  },
+  "theWeb": {
+    "number": "04",
+    "title": "LA TOILE",
+    "subtitle": "CONNECTEZ-VOUS AVEC ANANDAN",
+    "contact": {
+      "title": "CONNECTONS-NOUS",
+      "subtitle": "Un projet, une opportunité ou une question ? Envoyez-moi un message.",
+      "fullName": "NOM COMPLET",
+      "fullNamePlaceholder": "Votre nom",
+      "email": "E-MAIL",
+      "emailPlaceholder": "votre@email.com",
+      "subject": "SUJET",
+      "subjectPlaceholder": "De quoi souhaitez-vous discuter ?",
+      "message": "MESSAGE",
+      "messagePlaceholder": "Rédigez votre message...",
+      "sendMessage": "ENVOYER LE MESSAGE →",
+      "sending": "ENVOI EN COURS...",
+      "successTitle": "MESSAGE ENVOYÉ",
+      "successDesc": "Merci. Je vous recontacterai bientôt.",
+      "sendAnother": "ENVOYER UN AUTRE MESSAGE",
+      "error": "L'envoi du message a échoué. Veuillez réessayer."
+    },
+    "social": {
+      "connect": "SE CONNECTER",
+      "follow": "SUIVRE",
+      "explore": "EXPLORER"
+    },
+    "form": {
+      "title": "CONNECTONS-NOUS",
+      "desc": "Un projet, une opportunité ou une question ?<br />Envoyez-moi un message.",
+      "successTitle": "MESSAGE ENVOYÉ",
+      "successDesc": "Merci. Je reviendrai vers vous bientôt.",
+      "sendAnother": "ENVOYER UN AUTRE MESSAGE",
+      "error": "LE MESSAGE N'A PAS PU ÊTRE ENVOYÉ. Veuillez réessayer.",
+      "nameLabel": "Nom Complet",
+      "namePlaceholder": "Votre nom",
+      "emailLabel": "Email",
+      "emailPlaceholder": "votre@email.com",
+      "subjectLabel": "Sujet",
+      "subjectPlaceholder": "De quoi aimeriez-vous discuter ?",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Écrivez votre message...",
+      "sending": "ENVOI...",
+      "submit": "ENVOYER LE MESSAGE →"
+    }
+  }
+}

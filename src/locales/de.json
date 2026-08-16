@@ -1,0 +1,287 @@
+{
+  "nav": {
+    "powers": "Kräfte",
+    "missions": "Missionen",
+    "theWeb": "Das Netz",
+    "scroll": "SCROLLEN",
+    "soundOff": "TON AUS",
+    "soundOn": "TON AN"
+  },
+  "hero": {
+    "title1": "DIGITALES MARKETING",
+    "title2": "&",
+    "title3": "INTERNATIONALES BUSINESS",
+    "lookingFor": "SUCHE EIN 6-MONATIGES",
+    "internship": "PRAKTIKUM",
+    "internshipDesc": "DIGITALES MARKETING • KOMMUNIKATION • GESCHÄFTSENTWICKLUNG",
+    "available": "SOFORT VERFÜGBAR",
+    "creativeThinker": "KREATIVER DENKER • DIGITAL MARKETER • BUSINESS PROFESSIONAL",
+    "master": "MASTER — INTERNATIONAL EUROPEAN BUSINESS MANAGEMENT",
+    "school": "EM STRASBOURG BUSINESS SCHOOL • FRANKREICH",
+    "enterWeb": "DAS NETZ BETRETEN →",
+    "discoverPowers": "MEINE KRÄFTE ENTDECKEN ↓"
+  },
+  "powers": {
+    "number": "01",
+    "title": "KRÄFTE",
+    "subtitle": "MEIN ARSENAL",
+    "name": "ANANDAN",
+    "tagline": "DIGITALES MARKETING • STRATEGIE • CONTENT",
+    "downloadResume": "VOLLSTÄNDIGEN LEBENSLAUF HERUNTERLADEN",
+    "profExp": "BERUFSERFAHRUNG",
+    "modules": {
+      "dm": {
+        "title": "DIGITALES MARKETING",
+        "items": [
+          "Content-Erstellung",
+          "SEO-Strategie",
+          "Social Media Management",
+          "Analytics & Reporting",
+          "Kampagnenoptimierung"
+        ]
+      },
+      "ib": {
+        "title": "INTERNATIONALES BUSINESS",
+        "items": [
+          "Marktforschung",
+          "Interkulturelle Kommunikation",
+          "Globale Strategie",
+          "Geschäftsentwicklung",
+          "Internationaler Handel"
+        ]
+      },
+      "tools": {
+        "title": "TOOLS & PLATTFORMEN",
+        "items": [
+          "Google Analytics",
+          "Meta Business Suite",
+          "Adobe Creative Cloud",
+          "HubSpot CRM",
+          "Microsoft Office Suite"
+        ]
+      }
+    },
+    "exp": {
+      "job1": {
+        "title": "Praktikant im Digitalen Marketing",
+        "company": "Firmenname",
+        "date": "2023 - Heute",
+        "desc1": "Entwicklung und Umsetzung umfassender Social-Media-Strategien auf mehreren Plattformen, was das Engagement um 30% erhöhte.",
+        "desc2": "Verwaltung internationaler B2B-Kampagnen in Abstimmung mit lokalen Teams in 3 verschiedenen europäischen Märkten.",
+        "desc3": "Steigerung des organischen Traffics um 45% durch gezielte SEO-Verbesserungen und Inhaltsoptimierung."
+      },
+      "job2": {
+        "title": "Marketing-Assistent",
+        "company": "Ein anderes Unternehmen",
+        "date": "2022 - 2023",
+        "desc1": "Unterstützung bei der Koordination von Produkteinführungen, um sicherzustellen, dass alle digitalen Assets den Markenrichtlinien entsprechen.",
+        "desc2": "Durchführung von Marktforschungen zur Identifizierung neuer Trends und Möglichkeiten im europäischen Technologiesektor.",
+        "desc3": "Erstellung von Inhalten für wöchentliche Newsletter, wodurch die Abonnentenbasis über 6 Monate um 15% wuchs."
+      }
+    },
+    "whatIBring": "WAS ICH MITBRINGE",
+    "desc": "Ich entwickle digitale Strategien, die die Markenpräsenz stärken, Communities aufbauen und messbare Ergebnisse liefern.",
+    "modulesData": [
+      {
+        "num": "01",
+        "title": "DIGITALES MARKETING",
+        "skills": [
+          "Social Media",
+          "Content-Strategie",
+          "Kampagnenunterstützung",
+          "Digitales Marketing",
+          "Marktforschung",
+          "KPI-Analyse & Reporting",
+          "SEO-Grundlagen",
+          "Web-Content / CMS"
+        ],
+        "desc": "Aufbau digitaler Sichtbarkeit durch Content-Strategie, Forschung und zielgruppenorientiertes Marketing."
+      },
+      {
+        "num": "02",
+        "title": "CONTENT & KREATIV",
+        "skills": [
+          "Content-Erstellung",
+          "Visueller Content",
+          "Video-Content",
+          "Präsentationsdesign",
+          "Grafikdesign",
+          "Social Media Content"
+        ],
+        "desc": "Erstellung visueller und digitaler Inhalte, die Ideen klar kommunizieren und Marken hervorheben."
+      },
+      {
+        "num": "03",
+        "title": "BUSINESS",
+        "skills": [
+          "Geschäftsentwicklung",
+          "Internationales Business",
+          "Kundenkommunikation",
+          "Wettbewerbsanalyse",
+          "Vertriebsoperationen",
+          "Geschäftsberichterstattung"
+        ],
+        "desc": "Kombination von Marketing-Kreativität mit internationalem Geschäftsdenken und praktischer Marktanalyse."
+      },
+      {
+        "num": "04",
+        "title": "KI & DIGITAL",
+        "skills": [
+          "Künstliche Intelligenz",
+          "KI-Tools",
+          "Datenanalyse",
+          "Digitale Erlebnisse",
+          "Produktstrategie",
+          "UX & User Journeys",
+          "Workflow-Automatisierung"
+        ],
+        "desc": "Nutzung moderner KI und digitaler Tools zur Verbesserung von Prozessen, Schaffung digitaler Erlebnisse und Entwicklung von Ideen."
+      }
+    ],
+    "expStrip": {
+      "years": "03+ JAHRE",
+      "marketingExp": "MARKETING-\\nERFAHRUNG",
+      "months": "06 MONATE",
+      "internshipTarget": "PRAKTIKUMS-\\nZIEL",
+      "city": "STRASSBURG",
+      "country": "FRANKREICH",
+      "available": "VERFÜGBAR",
+      "immediately": "SOFORT"
+    },
+    "identity": {
+      "title": "IDENTITÄT",
+      "subtitle": "LERNEN SIE ANANDAN KENNEN",
+      "view": "IDENTITÄT ANZEIGEN",
+      "scan": "SCANNEN • ERKUNDEN • VERBINDEN",
+      "close": "[ SCHLIESSEN ]"
+    }
+  },
+  "missions": {
+    "number": "02",
+    "title": "MISSIONEN",
+    "subtitle": "Was Ich Getan Habe",
+    "filters": {
+      "all": "ALLE",
+      "dm": "DIGITALES MARKETING",
+      "ecommerce": "E-COMMERCE",
+      "strategy": "STRATEGIE"
+    },
+    "projects": {
+      "viewProject": "PROJEKT ANSEHEN",
+      "p1": {
+        "title": "Globale Kampagneneinführung",
+        "desc": "Leitung der digitalen Strategie für eine neue Produkteinführung in 5 internationalen Märkten. Erreichte 150% des Ziel-KPI."
+      },
+      "p2": {
+        "title": "E-Commerce-Optimierung",
+        "desc": "Neugestaltung der User Journey und Implementierung zielgerichteter E-Mail-Workflows, was zu einer Steigerung der Konversionsrate um 35% führte."
+      },
+      "p3": {
+        "title": "Überarbeitung der Content-Strategie",
+        "desc": "Entwicklung eines umfassenden 6-monatigen Inhaltskalenders und Styleguides für die plattformübergreifende Markenkonsistenz."
+      },
+      "p4": {
+        "title": "Analyse der Marktexpansion",
+        "desc": "Durchführung eingehender Forschungen in 3 potenziellen europäischen Märkten und Bereitstellung umsetzbarer Eintrittsstrategien für den Vorstand."
+      }
+    },
+    "desc": "Erfahrung im digitalen Marketing, in der Geschäftsentwicklung, Marktforschung, KPI-Berichterstattung, Website-Verwaltung und bereichsübergreifenden Projektkoordination.",
+    "data": [
+      {
+        "id": "01",
+        "company": "CONSULTAI",
+        "role": "GRÜNDER & KI-PRODUKTENTWICKLER",
+        "date": "2026 — HEUTE",
+        "responsibilities": [
+          "Definition der Produktanforderungen und User Journeys für eine KI-gestützte Geschäftsplattform.",
+          "Durchführung von Marktforschungen und Wettbewerbsanalysen.",
+          "Zusammenarbeit bei der Produktstrategie und Entwicklungsplanung."
+        ]
+      },
+      {
+        "id": "02",
+        "company": "WERBEAGENTUR — FRANKREICH",
+        "role": "DIGITALES MARKETING & PROJEKTKOORDINATOR",
+        "date": "2025 — 2026",
+        "responsibilities": [
+          "Koordination digitaler Marketingprojekte von der Planung bis zur Ausführung.",
+          "Unterstützung von Kampagnen und Vorbereitung von KPI-Dashboards.",
+          "Durchführung von Marktforschungen und Wettbewerbs-Benchmarking.",
+          "Pflege von Website-Inhalten über CMS.",
+          "Zusammenarbeit mit bereichsübergreifenden Teams."
+        ]
+      },
+      {
+        "id": "03",
+        "company": "COCONUT FASHION STORE",
+        "role": "GRÜNDER",
+        "date": "2024 — 2025",
+        "responsibilities": [
+          "Entwicklung digitaler Marketingstrategien.",
+          "Verwaltung von Lieferanten.",
+          "Erstellung von Social-Media-Inhalten.",
+          "Überwachung von KPIs.",
+          "Verbesserung der Website-Sichtbarkeit durch SEO-Grundlagen."
+        ]
+      },
+      {
+        "id": "04",
+        "company": "HOLIDAY INN GOA",
+        "role": "MARKETING-ASSISTENT",
+        "date": "2020 — 2022",
+        "responsibilities": [
+          "Unterstützung bei Marketingkampagnen und Werbeaktionen.",
+          "Erstellung von Berichten und Präsentationen.",
+          "Durchführung von Kunden- und Marktanalysen.",
+          "Koordination mit internen Abteilungen."
+        ]
+      }
+    ]
+  },
+  "theWeb": {
+    "number": "04",
+    "title": "DAS NETZ",
+    "subtitle": "VERBINDEN SIE SICH MIT ANANDAN",
+    "contact": {
+      "title": "LASS UNS VERBINDEN",
+      "subtitle": "Haben Sie ein Projekt, eine Gelegenheit oder eine Frage? Senden Sie mir eine Nachricht.",
+      "fullName": "VOLLSTÄNDIGER NAME",
+      "fullNamePlaceholder": "Ihr Name",
+      "email": "E-MAIL",
+      "emailPlaceholder": "ihre@email.com",
+      "subject": "BETREFF",
+      "subjectPlaceholder": "Worüber möchten Sie sprechen?",
+      "message": "NACHRICHT",
+      "messagePlaceholder": "Schreiben Sie Ihre Nachricht...",
+      "sendMessage": "NACHRICHT SENDEN →",
+      "sending": "SENDEN...",
+      "successTitle": "NACHRICHT GESENDET",
+      "successDesc": "Danke. Ich melde mich bald bei Ihnen.",
+      "sendAnother": "WEITERE NACHRICHT SENDEN",
+      "error": "Nachricht konnte nicht gesendet werden. Bitte versuchen Sie es erneut."
+    },
+    "social": {
+      "connect": "VERBINDEN",
+      "follow": "FOLGEN",
+      "explore": "ERKUNDEN"
+    },
+    "form": {
+      "title": "LASS UNS VERBINDEN",
+      "desc": "Haben Sie ein Projekt, eine Gelegenheit oder eine Frage?<br />Senden Sie mir eine Nachricht.",
+      "successTitle": "NACHRICHT GESENDET",
+      "successDesc": "Danke. Ich melde mich bald bei Ihnen.",
+      "sendAnother": "WEITERE NACHRICHT SENDEN",
+      "error": "NACHRICHT KONNTE NICHT GESENDET WERDEN. Bitte versuchen Sie es erneut.",
+      "nameLabel": "Vollständiger Name",
+      "namePlaceholder": "Ihr Name",
+      "emailLabel": "E-Mail",
+      "emailPlaceholder": "ihre@email.com",
+      "subjectLabel": "Betreff",
+      "subjectPlaceholder": "Worüber möchten Sie sprechen?",
+      "messageLabel": "Nachricht",
+      "messagePlaceholder": "Schreiben Sie Ihre Nachricht...",
+      "sending": "WIRD GESENDET...",
+      "submit": "NACHRICHT SENDEN →"
+    }
+  }
+}

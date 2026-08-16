@@ -1,0 +1,287 @@
+{
+  "nav": {
+    "powers": "Powers",
+    "missions": "Missions",
+    "theWeb": "The Web",
+    "scroll": "SCROLL",
+    "soundOff": "SOUND OFF",
+    "soundOn": "SOUND ON"
+  },
+  "hero": {
+    "title1": "DIGITAL MARKETING",
+    "title2": "&",
+    "title3": "INTERNATIONAL BUSINESS",
+    "lookingFor": "LOOKING FOR A 6-MONTH",
+    "internship": "INTERNSHIP",
+    "internshipDesc": "DIGITAL MARKETING • COMMUNICATION • BUSINESS DEVELOPMENT",
+    "available": "AVAILABLE IMMEDIATELY",
+    "creativeThinker": "CREATIVE THINKER • DIGITAL MARKETER • BUSINESS PROFESSIONAL",
+    "master": "MASTER — INTERNATIONAL EUROPEAN BUSINESS MANAGEMENT",
+    "school": "EM STRASBOURG BUSINESS SCHOOL • FRANCE",
+    "enterWeb": "ENTER MY WEB →",
+    "discoverPowers": "DISCOVER MY POWERS ↓"
+  },
+  "powers": {
+    "number": "01",
+    "title": "POWERS",
+    "subtitle": "MY ARSENAL",
+    "name": "ANANDAN",
+    "tagline": "DIGITAL MARKETING • STRATEGY • CONTENT",
+    "downloadResume": "DOWNLOAD FULL RESUME",
+    "profExp": "PROFESSIONAL EXPERIENCE",
+    "modules": {
+      "dm": {
+        "title": "DIGITAL MARKETING",
+        "items": [
+          "Content Creation",
+          "SEO Strategy",
+          "Social Media Management",
+          "Analytics & Reporting",
+          "Campaign Optimization"
+        ]
+      },
+      "ib": {
+        "title": "INTERNATIONAL BUSINESS",
+        "items": [
+          "Market Research",
+          "Cross-cultural Communication",
+          "Global Strategy",
+          "Business Development",
+          "International Trade"
+        ]
+      },
+      "tools": {
+        "title": "TOOLS & PLATFORMS",
+        "items": [
+          "Google Analytics",
+          "Meta Business Suite",
+          "Adobe Creative Cloud",
+          "HubSpot CRM",
+          "Microsoft Office Suite"
+        ]
+      }
+    },
+    "exp": {
+      "job1": {
+        "title": "Digital Marketing Intern",
+        "company": "Company Name",
+        "date": "2023 - Present",
+        "desc1": "Developed and executed comprehensive social media strategies across multiple platforms, increasing engagement by 30%.",
+        "desc2": "Managed international B2B campaigns, coordinating with local teams in 3 different European markets.",
+        "desc3": "Increased organic traffic by 45% through targeted SEO improvements and content optimization."
+      },
+      "job2": {
+        "title": "Marketing Assistant",
+        "company": "Another Company",
+        "date": "2022 - 2023",
+        "desc1": "Assisted in coordinating product launches, ensuring all digital assets were aligned with brand guidelines.",
+        "desc2": "Conducted market research to identify new trends and opportunities in the European tech sector.",
+        "desc3": "Created content for weekly newsletters, growing the subscriber base by 15% over 6 months."
+      }
+    },
+    "whatIBring": "WHAT I BRING",
+    "desc": "I develop digital strategies that strengthen brand visibility, build communities and generate measurable results.",
+    "modulesData": [
+      {
+        "num": "01",
+        "title": "DIGITAL MARKETING",
+        "skills": [
+          "Social Media",
+          "Content Strategy",
+          "Campaign Support",
+          "Digital Marketing",
+          "Market Research",
+          "KPI Analysis & Reporting",
+          "SEO Fundamentals",
+          "Website Content / CMS"
+        ],
+        "desc": "Building digital visibility through content strategy, research and audience-focused marketing."
+      },
+      {
+        "num": "02",
+        "title": "CONTENT & CREATIVE",
+        "skills": [
+          "Content Creation",
+          "Visual Content",
+          "Video Content",
+          "Presentation Design",
+          "Graphic Design",
+          "Social Media Content"
+        ],
+        "desc": "Creating visual and digital content that communicates ideas clearly and makes brands stand out."
+      },
+      {
+        "num": "03",
+        "title": "BUSINESS",
+        "skills": [
+          "Business Development",
+          "International Business",
+          "Customer Communication",
+          "Competitive Analysis",
+          "Sales Operations",
+          "Business Reporting"
+        ],
+        "desc": "Combining marketing creativity with international business thinking and practical market analysis."
+      },
+      {
+        "num": "04",
+        "title": "AI & DIGITAL",
+        "skills": [
+          "Artificial Intelligence",
+          "AI Tools",
+          "Data Analysis",
+          "Digital Experiences",
+          "Product Strategy",
+          "UX & User Journeys",
+          "Workflow Automation"
+        ],
+        "desc": "Using modern AI and digital tools to improve processes, create digital experiences and develop ideas."
+      }
+    ],
+    "expStrip": {
+      "years": "03+ YEARS",
+      "marketingExp": "MARKETING\\nEXPERIENCE",
+      "months": "06 MONTHS",
+      "internshipTarget": "INTERNSHIP\\nTARGET",
+      "city": "STRASBOURG",
+      "country": "FRANCE",
+      "available": "AVAILABLE",
+      "immediately": "IMMEDIATELY"
+    },
+    "identity": {
+      "title": "IDENTITY",
+      "subtitle": "GET TO KNOW ANANDAN",
+      "view": "VIEW IDENTITY",
+      "scan": "SCAN • EXPLORE • CONNECT",
+      "close": "[ CLOSE ]"
+    }
+  },
+  "missions": {
+    "number": "02",
+    "title": "MISSIONS",
+    "subtitle": "What I Have Done",
+    "filters": {
+      "all": "ALL",
+      "dm": "DIGITAL MARKETING",
+      "ecommerce": "E-COMMERCE",
+      "strategy": "STRATEGY"
+    },
+    "projects": {
+      "viewProject": "VIEW PROJECT",
+      "p1": {
+        "title": "Global Campaign Launch",
+        "desc": "Led the digital strategy for a new product launch across 5 international markets. Achieved 150% of the target KPI."
+      },
+      "p2": {
+        "title": "E-commerce Optimization",
+        "desc": "Redesigned the user journey and implemented targeted email workflows, resulting in a 35% increase in conversion rate."
+      },
+      "p3": {
+        "title": "Content Strategy Overhaul",
+        "desc": "Developed a comprehensive 6-month content calendar and style guide for cross-platform brand consistency."
+      },
+      "p4": {
+        "title": "Market Expansion Analysis",
+        "desc": "Conducted in-depth research on 3 potential European markets, providing actionable entry strategies to the board."
+      }
+    },
+    "desc": "Experience in digital marketing, business development, market research, KPI reporting, website management and cross-functional project coordination.",
+    "data": [
+      {
+        "id": "01",
+        "company": "CONSULTAI",
+        "role": "FOUNDER & AI PRODUCT DEVELOPER",
+        "date": "2026 — PRESENT",
+        "responsibilities": [
+          "Defined product requirements and user journeys for an AI-powered business platform.",
+          "Conducted market research and competitor analysis.",
+          "Collaborated on product strategy and development planning."
+        ]
+      },
+      {
+        "id": "02",
+        "company": "AD AGENCY — FRANCE",
+        "role": "DIGITAL MARKETING & PROJECT COORDINATOR",
+        "date": "2025 — 2026",
+        "responsibilities": [
+          "Coordinated digital marketing projects from planning to execution.",
+          "Supported campaigns and prepared KPI dashboards.",
+          "Conducted market research and competitor benchmarking.",
+          "Maintained website content using CMS.",
+          "Collaborated with cross-functional teams."
+        ]
+      },
+      {
+        "id": "03",
+        "company": "COCONUT FASHION STORE",
+        "role": "FOUNDER",
+        "date": "2024 — 2025",
+        "responsibilities": [
+          "Developed digital marketing strategies.",
+          "Managed suppliers.",
+          "Created social media content.",
+          "Monitored KPIs.",
+          "Improved website visibility using SEO fundamentals."
+        ]
+      },
+      {
+        "id": "04",
+        "company": "HOLIDAY INN GOA",
+        "role": "MARKETING ASSISTANT",
+        "date": "2020 — 2022",
+        "responsibilities": [
+          "Supported marketing campaigns and promotional activities.",
+          "Prepared reports and presentations.",
+          "Conducted customer and market analysis.",
+          "Coordinated with internal departments."
+        ]
+      }
+    ]
+  },
+  "theWeb": {
+    "number": "04",
+    "title": "THE WEB",
+    "subtitle": "CONNECT WITH ANANDAN",
+    "contact": {
+      "title": "LET'S CONNECT",
+      "subtitle": "Have a project, opportunity, or question? Send me a message.",
+      "fullName": "FULL NAME",
+      "fullNamePlaceholder": "Your name",
+      "email": "EMAIL",
+      "emailPlaceholder": "your@email.com",
+      "subject": "SUBJECT",
+      "subjectPlaceholder": "What would you like to discuss?",
+      "message": "MESSAGE",
+      "messagePlaceholder": "Write your message...",
+      "sendMessage": "SEND MESSAGE →",
+      "sending": "SENDING...",
+      "successTitle": "MESSAGE SENT",
+      "successDesc": "Thank you. I'll get back to you soon.",
+      "sendAnother": "SEND ANOTHER MESSAGE",
+      "error": "Failed to send message. Please try again."
+    },
+    "social": {
+      "connect": "CONNECT",
+      "follow": "FOLLOW",
+      "explore": "EXPLORE"
+    },
+    "form": {
+      "title": "LET'S CONNECT",
+      "desc": "Have a project, opportunity, or question?<br />Send me a message.",
+      "successTitle": "MESSAGE SENT",
+      "successDesc": "Thank you. I'll get back to you soon.",
+      "sendAnother": "SEND ANOTHER MESSAGE",
+      "error": "MESSAGE COULD NOT BE SENT. Please try again.",
+      "nameLabel": "Full Name",
+      "namePlaceholder": "Your name",
+      "emailLabel": "Email",
+      "emailPlaceholder": "your@email.com",
+      "subjectLabel": "Subject",
+      "subjectPlaceholder": "What would you like to discuss?",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Write your message...",
+      "sending": "SENDING...",
+      "submit": "SEND MESSAGE →"
+    }
+  }
+}
