@@ -27,13 +27,16 @@ export const TheWeb: React.FC = () => {
 
   return (
     <section className="relative w-full min-h-[100dvh] h-auto md:h-screen md:min-h-[700px] overflow-hidden md:overflow-hidden overflow-y-auto bg-black font-sans text-white">
-      {/* Background Image */}
+      {/* Background Video */}
       <div className="absolute inset-0 z-0 overflow-hidden">
-        <img
-          src="/theweb-bg.jpg"
-          alt="Spider-Man The Web Background"
+        <video
+          src="https://videotourl.com/videos/1786995592687-c9a20080-21e8-48ea-85b2-add0530792f9.mov"
+          autoPlay
+          muted
+          loop
+          playsInline
+          preload="auto"
           className="absolute inset-0 w-full h-full object-cover object-center transform-gpu"
-          style={{ filter: 'contrast(1.15) saturate(1.2) brightness(1.05)' }}
         />
         {/* Cinematic Overlay (35% to 45%) */}
         <div 
